@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java/airtrip/Capcha/VerifyUtils.java=UTF-8
+encoding//src/main/java/airtrip/Config/WebMvcConfig.java=UTF-8
+encoding//src/main/java/airtrip/Controller/AccountController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/BecomeAHostController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/BookRoomController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/PlaceController.java=UTF-8
+encoding//src/main/java/airtrip/Controller/ReviewController.java=UTF-8
+encoding//src/main/java/airtrip/Model/dao/BookRoomdao.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/host/header3.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/header21.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/menu.jsp=UTF-8
+encoding//src/main/webapp/asset/css/stylenew.css=UTF-8

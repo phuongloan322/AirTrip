@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:18:56 +0700] "GET /AirTrip HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:18:57 +0700] "GET /AirTrip/ HTTP/1.1" 200 57 http-bio-8080-exec-3 357
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/login HTTP/1.1" 200 2945 http-bio-8080-exec-4 1263
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/bootstrap.min.css HTTP/1.1" 404 1021 http-bio-8080-exec-5 9
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/font-awesome.min.css HTTP/1.1" 404 1027 http-bio-8080-exec-1 2
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/responsive.css HTTP/1.1" 404 1015 http-bio-8080-exec-6 6
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/main.css HTTP/1.1" 404 1003 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/animate.css HTTP/1.1" 404 1009 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/prettyPhoto.css HTTP/1.1" 404 1017 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/css/price-range.css HTTP/1.1" 404 1017 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:03 +0700] "GET /AirTrip/asset/images/ico/favicon.ico HTTP/1.1" 404 1023 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:05 +0700] "POST /AirTrip/login HTTP/1.1" 302 - http-bio-8080-exec-9 74
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:05 +0700] "GET /AirTrip/hello HTTP/1.1" 200 296 http-bio-8080-exec-9 30
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:20:19:07 +0700] "POST /AirTrip/hello HTTP/1.1" 200 358 http-bio-8080-exec-9 27
+0:0:0:0:0:0:0:1 - - [02/Dec/2021:21:52:36 +0700] "POST /AirTrip/hello HTTP/1.1" 200 357 http-bio-8080-exec-1 288
